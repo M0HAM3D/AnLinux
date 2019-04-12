@@ -25,7 +25,7 @@ banner(){
 		\____|__  /___|  /_______ \__|___|  /____//__/\_\  
 	        \/     \/        \/       \/            \/    
 	        			$yellow By:$red almbrmg$cyan alm9ry
-					 $blue youtube : http://cutt.us/almbrmg_alm9ry"""
+			         $blue youtube : http://cutt.us/almbrmg_alm9ry"""
 }
 main(){
 	banner ;sleep 0.2
